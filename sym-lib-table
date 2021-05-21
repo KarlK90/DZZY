@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "dzzy")(type "KiCad")(uri "${KIPRJMOD}/dzzy.kicad_sym")(options "")(descr ""))
+  (lib (name "DZZY")(type "KiCad")(uri "${KIPRJMOD}/DZZY.kicad_sym")(options "")(descr ""))
+)
